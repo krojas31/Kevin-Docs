@@ -1,0 +1,24 @@
+input: .
+output: .retype
+url: https://mateo-wallace.github.io/Mikey-Docs/ # Add your website address here
+branding:
+  title: Mikey
+  label: Docs
+  logo: images/dumbot-face-circle.png
+links:
+  - text: Home
+    link: /
+    icon: home
+  - text: GitHub
+    link: https://github.com/Mateo-Wallace/Mikey-Docs
+    icon: mark-github
+    target: blank
+footer:
+  copyright: "&copy; Copyright Mateo Wallace & Mikey Ruz {{ year }}. All rights reserved."
+
+# -----------------------------------------------------------------------------
+
+meta:
+  title: " | Mikey Docs" # Appended to the <title> element on all pages.
+
+# -----------------------------------------------------------------------------
