@@ -13,6 +13,10 @@ links:
     link: https://github.com/Mateo-Wallace/Mikey-Docs
     icon: mark-github
     target: blank
+  # - text: Name of navbar link
+  #   link: link you would like the navbar to send you to
+  #   icon: icon next to link, check out https://primer.github.io/octicons/ for available icon names
+  #   target: if you want to link within the website omit this tag, if you want to link outside of the website add `blank`
 footer:
   copyright: "&copy; Copyright Mateo Wallace & Mikey Ruz {{ year }}. All rights reserved."
 

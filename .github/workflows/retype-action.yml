@@ -3,6 +3,7 @@ on:
   workflow_dispatch:
   push:
     branches:
+      # change this branch to the branch you wish to track for deployment. For example a `docs` branch
       - main
 
 jobs:
