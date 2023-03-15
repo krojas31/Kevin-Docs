@@ -1,6 +1,6 @@
 input: .
 output: .retype
-url: https://mateo-wallace.github.io/Mikey-Docs/ # Add your website address here
+url:  # Add your website address here
 branding:
   title: Mikey
   label: Docs
